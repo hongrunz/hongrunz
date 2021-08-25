@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Hongrun(she/her/hers)!
+My name is Cheryl(she/her/hers)!
 I am an Electrical and Computer Engineering student at Carnegie Mellon University.
 
 My interest is in backend software engineering 💻 -- including but not restricted to distributed systems, infrastructure, security and cloud, etc.
